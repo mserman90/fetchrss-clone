@@ -1,0 +1,6 @@
+{
+  "name": "html2rss-web",
+  "description": "Turn almost any website into an RSS 2.0 or JSON feed instantly with auto-source web scraping, live feed preview, and catalog directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

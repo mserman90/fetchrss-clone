@@ -1,0 +1,896 @@
+---
+openapi: 3.0.3
+info:
+  title: html2rss-web API
+  version: 1.13.0
+  description: RESTful API for converting websites to RSS feeds.
+  contact:
+    name: html2rss-web Support
+    url: https://github.com/html2rss/html2rss-web
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+servers:
+- url: https://api.html2rss.dev/api/v1
+  description: Production server
+- url: http://127.0.0.1:4000/api/v1
+  description: Development server
+paths:
+  "/":
+    get:
+      description: API metadata
+      operationId: getApiMetadata
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                properties:
+                  data:
+                    properties:
+                      api:
+                        properties:
+                          description:
+                            type: string
+                          name:
+                            type: string
+                          openapi_url:
+                            type: string
+                        required:
+                        - name
+                        - description
+                        - openapi_url
+                        type: object
+                      instance:
+                        properties:
+                          catalog:
+                            properties:
+                              enabled:
+                                type: boolean
+                              url:
+                                type: string
+                            required:
+                            - enabled
+                            - url
+                            type: object
+                          feed_creation:
+                            properties:
+                              access_token_required:
+                                type: boolean
+                              enabled:
+                                type: boolean
+                            required:
+                            - enabled
+                            - access_token_required
+                            type: object
+                        required:
+                        - feed_creation
+                        - catalog
+                        type: object
+                    required:
+                    - api
+                    - instance
+                    type: object
+                  success:
+                    type: boolean
+                required:
+                - success
+                - data
+                type: object
+          description: returns catalog pointer metadata
+      security:
+      - {}
+      summary: API metadata
+      tags:
+      - Root
+  "/configs":
+    get:
+      description: Config catalog
+      operationId: getConfigCatalog
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                properties:
+                  data:
+                    properties:
+                      configs:
+                        items:
+                          properties:
+                            channel:
+                              properties:
+                                language:
+                                  type: string
+                                title:
+                                  type: string
+                                url:
+                                  type: string
+                              required:
+                              - url
+                              - language
+                              - title
+                              type: object
+                            directory:
+                              properties:
+                                summary:
+                                  type: string
+                                title:
+                                  type: string
+                                topics:
+                                  items:
+                                    type: string
+                                  type: array
+                              required:
+                              - title
+                              - summary
+                              - topics
+                              type: object
+                            id:
+                              type: string
+                            last_result:
+                              properties:
+                                at:
+                                  nullable: true
+                                  type: string
+                                code:
+                                  nullable: true
+                                  type: string
+                                state:
+                                  type: string
+                              required:
+                              - state
+                              - code
+                              - at
+                              type: object
+                            parameters:
+                              properties:
+                                defaults:
+                                  properties:
+                                    blog:
+                                      nullable: true
+                                      type: string
+                                    id:
+                                      nullable: true
+                                      type: string
+                                    region:
+                                      nullable: true
+                                      type: string
+                                    repository:
+                                      nullable: true
+                                      type: string
+                                    section:
+                                      nullable: true
+                                      type: string
+                                    user_id:
+                                      nullable: true
+                                      type: string
+                                    username:
+                                      nullable: true
+                                      type: string
+                                  type: object
+                                schema:
+                                  properties:
+                                    blog:
+                                      nullable: true
+                                      properties:
+                                        type:
+                                          type: string
+                                      required:
+                                      - type
+                                      type: object
+                                    id:
+                                      nullable: true
+                                      properties:
+                                        type:
+                                          type: string
+                                      required:
+                                      - type
+                                      type: object
+                                    region:
+                                      nullable: true
+                                      properties:
+                                        type:
+                                          type: string
+                                      required:
+                                      - type
+                                      type: object
+                                    repository:
+                                      nullable: true
+                                      properties:
+                                        type:
+                                          type: string
+                                      required:
+                                      - type
+                                      type: object
+                                    section:
+                                      nullable: true
+                                      properties:
+                                        type:
+                                          type: string
+                                      required:
+                                      - type
+                                      type: object
+                                    user_id:
+                                      nullable: true
+                                      properties:
+                                        type:
+                                          type: string
+                                      required:
+                                      - type
+                                      type: object
+                                    username:
+                                      nullable: true
+                                      properties:
+                                        type:
+                                          type: string
+                                      required:
+                                      - type
+                                      type: object
+                                  type: object
+                              required:
+                              - schema
+                              - defaults
+                              type: object
+                            path:
+                              type: string
+                            source:
+                              type: string
+                          required:
+                          - id
+                          - path
+                          - source
+                          - directory
+                          - channel
+                          - parameters
+                          - last_result
+                          type: object
+                        type: array
+                    required:
+                    - configs
+                    type: object
+                  meta:
+                    properties:
+                      catalog_version:
+                        type: integer
+                      starters:
+                        items:
+                          type: string
+                        type: array
+                      total:
+                        type: integer
+                    required:
+                    - total
+                    - catalog_version
+                    - starters
+                    type: object
+                  success:
+                    type: boolean
+                required:
+                - success
+                - data
+                - meta
+                type: object
+          description: returns the merged catalog with CORS headers
+        '404':
+          content:
+            application/json:
+              schema:
+                properties:
+                  error:
+                    type: string
+                required:
+                - error
+                type: object
+          description: returns 404 when the catalog is disabled
+      security:
+      - {}
+      summary: Config catalog
+      tags:
+      - Catalog
+    options:
+      description: Config catalog preflight
+      operationId: optionsConfigCatalog
+      requestBody:
+        content:
+          application/x-www-form-urlencoded:
+            schema:
+              properties: {}
+              type: object
+      responses:
+        '204':
+          description: responds to preflight requests with CORS headers
+      security:
+      - {}
+      summary: Config catalog preflight
+      tags:
+      - Catalog
+  "/feeds":
+    post:
+      description: Create a feed
+      operationId: createFeed
+      parameters:
+      - in: header
+        name: Authorization
+        required: true
+        schema:
+          type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              properties:
+                name:
+                  type: string
+                url:
+                  type: string
+              required:
+              - url
+              type: object
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                properties:
+                  data:
+                    properties:
+                      feed:
+                        properties:
+                          created_at:
+                            type: string
+                          feed_token:
+                            type: string
+                          id:
+                            type: string
+                          json_public_url:
+                            type: string
+                          name:
+                            type: string
+                          public_url:
+                            type: string
+                          updated_at:
+                            type: string
+                          url:
+                            type: string
+                        required:
+                        - id
+                        - name
+                        - url
+                        - feed_token
+                        - public_url
+                        - json_public_url
+                        - created_at
+                        - updated_at
+                        type: object
+                    required:
+                    - feed
+                    type: object
+                  meta:
+                    properties:
+                      created:
+                        type: boolean
+                    required:
+                    - created
+                    type: object
+                  success:
+                    type: boolean
+                required:
+                - success
+                - data
+                - meta
+                type: object
+          description: normalizes hostname-only input to https before feed creation
+        '400':
+          content:
+            application/json:
+              schema:
+                properties:
+                  error:
+                    properties:
+                      code:
+                        type: string
+                      kind:
+                        type: string
+                      message:
+                        type: string
+                      next_action:
+                        type: string
+                      retry_action:
+                        type: string
+                      retryable:
+                        type: boolean
+                    required:
+                    - code
+                    - message
+                    - kind
+                    - retryable
+                    - next_action
+                    - retry_action
+                    type: object
+                  success:
+                    type: boolean
+                required:
+                - success
+                - error
+                type: object
+          description: returns 400 when request body exceeds maximum allowed bytes
+        '401':
+          content:
+            application/json:
+              schema:
+                properties:
+                  error:
+                    properties:
+                      code:
+                        type: string
+                      kind:
+                        type: string
+                      message:
+                        type: string
+                      next_action:
+                        type: string
+                      retry_action:
+                        type: string
+                      retryable:
+                        type: boolean
+                    required:
+                    - code
+                    - message
+                    - kind
+                    - retryable
+                    - next_action
+                    - retry_action
+                    type: object
+                  success:
+                    type: boolean
+                required:
+                - success
+                - error
+                type: object
+          description: returns 401 with UNAUTHORIZED error payload
+        '403':
+          content:
+            application/json:
+              schema:
+                properties:
+                  error:
+                    properties:
+                      code:
+                        type: string
+                      kind:
+                        type: string
+                      message:
+                        type: string
+                      next_action:
+                        type: string
+                      retry_action:
+                        type: string
+                      retryable:
+                        type: boolean
+                    required:
+                    - code
+                    - message
+                    - kind
+                    - retryable
+                    - next_action
+                    - retry_action
+                    type: object
+                  success:
+                    type: boolean
+                required:
+                - success
+                - error
+                type: object
+          description: returns forbidden for authenticated requests when auto source
+            is disabled
+        '429':
+          content:
+            application/json:
+              schema:
+                properties:
+                  error:
+                    properties:
+                      code:
+                        type: string
+                      kind:
+                        type: string
+                      message:
+                        type: string
+                      next_action:
+                        type: string
+                      retry_action:
+                        type: string
+                      retryable:
+                        type: boolean
+                    required:
+                    - code
+                    - message
+                    - kind
+                    - retryable
+                    - next_action
+                    - retry_action
+                    type: object
+                  success:
+                    type: boolean
+                required:
+                - success
+                - error
+                type: object
+          description: returns 429 when rate limit is exceeded
+          headers:
+            Retry-After:
+              description: The number of seconds to wait before retrying the request.
+              schema:
+                type: integer
+      security:
+      - BearerAuth: []
+      summary: Create a feed
+      tags:
+      - Feeds
+  "/feeds/{token}":
+    get:
+      description: Render feed by token
+      operationId: renderFeedByToken
+      parameters:
+      - in: path
+        name: token
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/feed+json:
+              schema:
+                type: string
+            application/xml:
+              schema:
+                type: string
+          description: renders feed for a valid token
+        '401':
+          content:
+            text/plain:
+              example: 'Failed to generate feed: Invalid token'
+              schema:
+                type: string
+          description: returns unauthorized for invalid tokens
+        '403':
+          content:
+            text/plain:
+              example: 'Failed to generate feed: Invalid token'
+              schema:
+                type: string
+          description: returns forbidden when auto source is disabled
+        '422':
+          content:
+            text/plain:
+              example: We could not extract feed items from this page yet. Try a more
+                specific listing URL or explicit selectors.
+              schema:
+                type: string
+          description: returns 422 for empty extraction feeds in xml representation
+        '429':
+          content:
+            text/plain:
+              example: 'Failed to generate feed: Invalid token'
+              schema:
+                type: string
+          description: returns 429 when rate limit is exceeded
+          headers:
+            Retry-After:
+              description: The number of seconds to wait before retrying the request.
+              schema:
+                type: integer
+        '500':
+          content:
+            text/plain:
+              example: 'Failed to generate feed: Invalid token'
+              schema:
+                type: string
+          description: returns non-cacheable feed errors when service generation fails
+        '503':
+          content:
+            text/plain:
+              example: 'Failed to generate feed: Invalid token'
+              schema:
+                type: string
+          description: returns 503 when the scraper queue times out
+          headers:
+            Retry-After:
+              description: The number of seconds to wait before retrying the request.
+              schema:
+                type: integer
+        '504':
+          content:
+            text/plain:
+              example: 'Failed to generate feed: Invalid token'
+              schema:
+                type: string
+          description: returns 504 when the gateway times out
+          headers:
+            Retry-After:
+              description: The number of seconds to wait before retrying the request.
+              schema:
+                type: integer
+      security:
+      - {}
+      summary: Render feed by token
+      tags:
+      - Feeds
+  "/health":
+    get:
+      description: Authenticated health check
+      operationId: getHealthStatus
+      parameters:
+      - in: header
+        name: Authorization
+        required: true
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                properties:
+                  data:
+                    properties:
+                      health:
+                        properties:
+                          checks:
+                            properties: {}
+                            type: object
+                          environment:
+                            type: string
+                          status:
+                            type: string
+                          timestamp:
+                            type: string
+                          uptime:
+                            format: float
+                            type: number
+                        required:
+                        - status
+                        - timestamp
+                        - environment
+                        - uptime
+                        - checks
+                        type: object
+                    required:
+                    - health
+                    type: object
+                  success:
+                    type: boolean
+                required:
+                - success
+                - data
+                type: object
+          description: returns health status when token is valid
+        '401':
+          content:
+            application/json:
+              schema:
+                properties:
+                  error:
+                    properties:
+                      code:
+                        type: string
+                      kind:
+                        type: string
+                      message:
+                        type: string
+                      next_action:
+                        type: string
+                      retry_action:
+                        type: string
+                      retryable:
+                        type: boolean
+                    required:
+                    - code
+                    - message
+                    - kind
+                    - retryable
+                    - next_action
+                    - retry_action
+                    type: object
+                  success:
+                    type: boolean
+                required:
+                - success
+                - error
+                type: object
+          description: returns 401 with UNAUTHORIZED error payload
+        '500':
+          content:
+            application/json:
+              schema:
+                properties:
+                  error:
+                    properties:
+                      code:
+                        type: string
+                      kind:
+                        type: string
+                      message:
+                        type: string
+                      next_action:
+                        type: string
+                      retry_action:
+                        type: string
+                      retryable:
+                        type: boolean
+                    required:
+                    - code
+                    - message
+                    - kind
+                    - retryable
+                    - next_action
+                    - retry_action
+                    type: object
+                  success:
+                    type: boolean
+                required:
+                - success
+                - error
+                type: object
+          description: returns error when configuration fails
+      security:
+      - BearerAuth: []
+      summary: Authenticated health check
+      tags:
+      - Health
+  "/health/live":
+    get:
+      description: Liveness probe
+      operationId: getLivenessProbe
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                properties:
+                  data:
+                    properties:
+                      health:
+                        properties:
+                          status:
+                            type: string
+                          timestamp:
+                            type: string
+                        required:
+                        - status
+                        - timestamp
+                        type: object
+                    required:
+                    - health
+                    type: object
+                  success:
+                    type: boolean
+                required:
+                - success
+                - data
+                type: object
+          description: returns liveness status without authentication
+      security:
+      - {}
+      summary: Liveness probe
+      tags:
+      - Health
+  "/health/ready":
+    get:
+      description: Readiness probe
+      operationId: getReadinessProbe
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                properties:
+                  data:
+                    properties:
+                      health:
+                        properties:
+                          checks:
+                            properties: {}
+                            type: object
+                          environment:
+                            type: string
+                          status:
+                            type: string
+                          timestamp:
+                            type: string
+                          uptime:
+                            format: float
+                            type: number
+                        required:
+                        - status
+                        - timestamp
+                        - environment
+                        - uptime
+                        - checks
+                        type: object
+                    required:
+                    - health
+                    type: object
+                  success:
+                    type: boolean
+                required:
+                - success
+                - data
+                type: object
+          description: returns readiness status without authentication
+      security:
+      - {}
+      summary: Readiness probe
+      tags:
+      - Health
+  "/strategies":
+    get:
+      description: List extraction strategies
+      operationId: listStrategies
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                properties:
+                  data:
+                    properties:
+                      strategies:
+                        items:
+                          properties:
+                            display_name:
+                              type: string
+                            id:
+                              type: string
+                            name:
+                              type: string
+                          required:
+                          - id
+                          - name
+                          - display_name
+                          type: object
+                        type: array
+                    required:
+                    - strategies
+                    type: object
+                  meta:
+                    properties:
+                      total:
+                        type: integer
+                    required:
+                    - total
+                    type: object
+                  success:
+                    type: boolean
+                required:
+                - success
+                - data
+                - meta
+                type: object
+          description: returns available strategies
+      security:
+      - {}
+      summary: List extraction strategies
+      tags:
+      - Strategies
+components:
+  securitySchemes:
+    BearerAuth:
+      description: Bearer token authentication for API access.
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+tags:
+- name: Root
+  description: API metadata and service-level information.
+- name: Catalog
+  description: Public feed-directory catalog metadata.
+- name: Health
+  description: Health and readiness endpoints.
+- name: Strategies
+  description: Feed extraction strategy discovery.
+- name: Feeds
+  description: Feed creation and feed rendering operations.
