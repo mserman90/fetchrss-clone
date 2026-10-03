@@ -1,0 +1,1047 @@
+[
+  {
+    "id": "tarim-destekleri",
+    "slug": "tarim-destekleri",
+    "name": "Tarım Destekleri ve Hibeleri (AI Filtreli)",
+    "url": "https://www.tarimorman.gov.tr",
+    "description": "Yapay zeka ile filtrelenmiş çiftçi desteklemeleri, hibe ve kuraklık duyuruları.",
+    "topicFilter": "Tarımsal desteklemeler, mazot gübre desteği, hibe, kredi ve çiftçi duyuruları",
+    "aiSummarize": true,
+    "cachedItems": [
+      {
+        "title": "BAKANI YUMAKLI: “KAYNAKLARIMIZI KORUMAYA, YÖNETMEYE VE YARINLARA TAŞIMAYA DEVAM EDECEĞİZ”",
+        "url": "https://www.tarimorman.gov.tr/Haber/7303/Bakani-Yumakli-Kaynaklarimizi-Korumaya-Yonetmeye-Ve-Yarinlara-Tasimaya-Devam-Edecegiz",
+        "description": "BAKANI YUMAKLI: “KAYNAKLARIMIZI KORUMAYA, YÖNETMEYE VE YARINLARA TAŞIMAYA DEVAM EDECEĞİZ”",
+        "publishedAt": "2026-10-03T06:50:50.443Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKANI YUMAKLI: “KAYNAKLARIMIZI KORUMAYA, YÖNETMEYE VE YARINLARA TAŞIMAYA DEVAM EDECEĞİZ”"
+      },
+      {
+        "title": "BAKAN YUMAKLI: “TÜRKİYE, 2005'TEN BU YANA DÜNYA UN İHRACATINDA BİRİNCİLİĞİNİ KORUYOR”",
+        "url": "https://www.tarimorman.gov.tr/Haber/7297/Bakan-Yumakli-Turkiye-2005ten-Bu-Yana-Dunya-Un-Ihracatinda-Birinciligini-Koruyor",
+        "description": "BAKAN YUMAKLI: “TÜRKİYE, 2005'TEN BU YANA DÜNYA UN İHRACATINDA BİRİNCİLİĞİNİ KORUYOR”",
+        "publishedAt": "2026-10-03T06:50:50.443Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI: “TÜRKİYE, 2005'TEN BU YANA DÜNYA UN İHRACATINDA BİRİNCİLİĞİNİ KORUYOR”"
+      },
+      {
+        "title": "BAKAN YUMAKLI 2028'DE TAMAMLANMASI HEDEFLENEN EDİRNE ÇÖMLEKKÖY BARAJI'NDA İNCELEMEDE BULUNDU",
+        "url": "https://www.tarimorman.gov.tr/Haber/7295/Bakan-Yumakli-2028de-Tamamlanmasi-Hedeflenen-Edirne-Comlekkoy-Barajinda-Incelemede-Bulundu",
+        "description": "BAKAN YUMAKLI 2028'DE TAMAMLANMASI HEDEFLENEN EDİRNE ÇÖMLEKKÖY BARAJI'NDA İNCELEMEDE BULUNDU",
+        "publishedAt": "2026-10-03T06:50:50.443Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI 2028'DE TAMAMLANMASI HEDEFLENEN EDİRNE ÇÖMLEKKÖY BARAJI'NDA İNCELEMEDE BULUNDU"
+      },
+      {
+        "title": "BAKAN YUMAKLI: \"GIDA ARZ GÜVENLİĞİ İÇİN TARIM DİPLOMASİSİ ŞART\"",
+        "url": "https://www.tarimorman.gov.tr/Haber/7294/Bakan-Yumakli-Gida-Arz-Guvenligi-Icin-Tarim-Diplomasisi-Sart",
+        "description": "BAKAN YUMAKLI: \"GIDA ARZ GÜVENLİĞİ İÇİN TARIM DİPLOMASİSİ ŞART\"",
+        "publishedAt": "2026-10-03T06:50:50.443Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI: \"GIDA ARZ GÜVENLİĞİ İÇİN TARIM DİPLOMASİSİ ŞART\""
+      },
+      {
+        "title": "BAKAN YUMAKLI: “GEKİS İLE HER BÜYÜKBAŞ HAYVANIMIZIN DİJİTAL BİR KİMLİĞİ OLACAK”",
+        "url": "https://www.tarimorman.gov.tr/Haber/7292/Bakan-Yumakli-Gekis-Ile-Her-Buyukbas-Hayvanimizin-Dijital-Bir-Kimligi-Olacak",
+        "description": "BAKAN YUMAKLI: “GEKİS İLE HER BÜYÜKBAŞ HAYVANIMIZIN DİJİTAL BİR KİMLİĞİ OLACAK”",
+        "publishedAt": "2026-10-03T06:50:50.443Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI: “GEKİS İLE HER BÜYÜKBAŞ HAYVANIMIZIN DİJİTAL BİR KİMLİĞİ OLACAK”"
+      },
+      {
+        "title": "BAKAN YUMAKLI: “BU SENE 3 MİLYON 850 BİN TONLUK BİR ÜZÜM ÜRETİMİ GERÇEKLEŞMİŞ OLACAK”",
+        "url": "https://www.tarimorman.gov.tr/Haber/7290/Bakan-Yumakli-Bu-Sene-3-Milyon-850-Bin-Tonluk-Bir-Uzum-Uretimi-Gerceklesmis-Olacak",
+        "description": "BAKAN YUMAKLI: “BU SENE 3 MİLYON 850 BİN TONLUK BİR ÜZÜM ÜRETİMİ GERÇEKLEŞMİŞ OLACAK”",
+        "publishedAt": "2026-10-03T06:50:50.443Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI: “BU SENE 3 MİLYON 850 BİN TONLUK BİR ÜZÜM ÜRETİMİ GERÇEKLEŞMİŞ OLACAK”"
+      },
+      {
+        "title": "“Tarımsal Amaçlı Örgütler, 2025” İstatistik Bülteni",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2706/Tarimsal-Amacli-Orgutler-2025-Istatistik-Bulteni",
+        "description": "“Tarımsal Amaçlı Örgütler, 2025” İstatistik Bülteni",
+        "publishedAt": "2026-10-03T06:50:50.443Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "“Tarımsal Amaçlı Örgütler, 2025” İstatistik Bülteni"
+      },
+      {
+        "title": "Gübre Analizinde Yetkilendirilen Laboratuvarlar ve Referans Kuruluşları Listesi ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2705/Gubre-Analizinde-Yetkilendirilen-Laboratuvarlar-Ve-Referans-Kuruluslari-Listesi-Guncellendi",
+        "description": "Gübre Analizinde Yetkilendirilen Laboratuvarlar ve Referans Kuruluşları Listesi ...",
+        "publishedAt": "2026-10-03T06:50:50.443Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Gübre Analizinde Yetkilendirilen Laboratuvarlar ve Referans Kuruluşları Listesi ..."
+      },
+      {
+        "title": "16. Uluslararası Tarım Orman ve İnsan Fotoğraf Yarışmasında Finale Kalan Fotoğra ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2703/16-Uluslararasi-Tarim-Orman-Ve-Insan-Fotograf-Yarismasinda-Finale-Kalan-Fotograflarin-Aski-Sureci-Basliyor",
+        "description": "16. Uluslararası Tarım Orman ve İnsan Fotoğraf Yarışmasında Finale Kalan Fotoğra ...",
+        "publishedAt": "2026-10-03T06:50:50.443Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "16. Uluslararası Tarım Orman ve İnsan Fotoğraf Yarışmasında Finale Kalan Fotoğra ..."
+      },
+      {
+        "title": "3713 Sayılı Terörle Mücadele Kanunu Gereği Bakanlığımıza Yerleştirilenlerden İst ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2701/3713-Sayili-Terorle-Mucadele-Kanunu-Geregi-Bakanligimiza-Yerlestirilenlerden-Istenilen-Evraklar",
+        "description": "3713 Sayılı Terörle Mücadele Kanunu Gereği Bakanlığımıza Yerleştirilenlerden İst ...",
+        "publishedAt": "2026-10-03T06:50:50.443Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "3713 Sayılı Terörle Mücadele Kanunu Gereği Bakanlığımıza Yerleştirilenlerden İst ..."
+      },
+      {
+        "title": "“Devlet Destekli Tarım Sigortası Uygulamaları, I. Dönem: Ocak-Haziran 2026” İsta ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2700/Devlet-Destekli-Tarim-Sigortasi-Uygulamalari-I-Donem-Ocak-Haziran-2026-Istatistik-Bulteni",
+        "description": "“Devlet Destekli Tarım Sigortası Uygulamaları, I. Dönem: Ocak-Haziran 2026” İsta ...",
+        "publishedAt": "2026-10-03T06:50:50.443Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "“Devlet Destekli Tarım Sigortası Uygulamaları, I. Dönem: Ocak-Haziran 2026” İsta ..."
+      },
+      {
+        "title": "İklim, Fenolojik Durum Ve Sulama İzleme İstatistik Bülteni",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2698/Iklim-Fenolojik-Durum-Ve-Sulama-Izleme-Istatistik-Bulteni",
+        "description": "İklim, Fenolojik Durum Ve Sulama İzleme İstatistik Bülteni",
+        "publishedAt": "2026-10-03T06:50:50.443Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "İklim, Fenolojik Durum Ve Sulama İzleme İstatistik Bülteni"
+      },
+      {
+        "title": "Ünvan Değişikliği Sınavı Başarı Listesi",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2695/Unvan-Degisikligi-Sinavi-Basari-Listesi",
+        "description": "Ünvan Değişikliği Sınavı Başarı Listesi",
+        "publishedAt": "2026-10-03T06:50:50.443Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Ünvan Değişikliği Sınavı Başarı Listesi"
+      },
+      {
+        "title": "Tarım ve Orman Bakanlığı Sözleşmeli Gemi Adamı Uygulamalı Sınav İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2694/Tarim-Ve-Orman-Bakanligi-Sozlesmeli-Gemi-Adami-Uygulamali-Sinav-Ilani",
+        "description": "Tarım ve Orman Bakanlığı Sözleşmeli Gemi Adamı Uygulamalı Sınav İlanı",
+        "publishedAt": "2026-10-03T06:50:50.443Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Tarım ve Orman Bakanlığı Sözleşmeli Gemi Adamı Uygulamalı Sınav İlanı"
+      },
+      {
+        "title": "Türkiye İklim Akıllı ve Rekabetçi Büyüme Projesi – Zirai Mücadele Merkez Araştır ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2687/Turkiye-Iklim-Akilli-Ve-Rekabetci-Buyume-Projesi-%e2%80%93-Zirai-Mucadele-Merkez-Arastirma-Enstitusu-Mudurlugu-Bitki-Sagligi-Ar-Ge-Merkezi-Yapim-Isi-Ihalesi-Durum-Bildirimi",
+        "description": "Türkiye İklim Akıllı ve Rekabetçi Büyüme Projesi – Zirai Mücadele Merkez Araştır ...",
+        "publishedAt": "2026-10-03T06:50:50.443Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Türkiye İklim Akıllı ve Rekabetçi Büyüme Projesi – Zirai Mücadele Merkez Araştır ..."
+      },
+      {
+        "title": "Organize Tarım Bölgelerinde Ön Tahsis ve Arsa Tahsisi Yapılacak Parsellere İlişk ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2686/Organize-Tarim-Bolgelerinde-On-Tahsis-Ve-Arsa-Tahsisi-Yapilacak-Parsellere-Iliskin-Duyuru-_eylul-2026_",
+        "description": "Organize Tarım Bölgelerinde Ön Tahsis ve Arsa Tahsisi Yapılacak Parsellere İlişk ...",
+        "publishedAt": "2026-10-03T06:50:50.443Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Organize Tarım Bölgelerinde Ön Tahsis ve Arsa Tahsisi Yapılacak Parsellere İlişk ..."
+      },
+      {
+        "title": "6. Bölge Müdürlüğü Isparta Gölcük Tabiat Parkı Mal Alımı İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2707/6-Bolge-Mudurlugu-Isparta-Golcuk-Tabiat-Parki-Mal-Alimi-Ihale-Ilani",
+        "description": "6. Bölge Müdürlüğü Isparta Gölcük Tabiat Parkı Mal Alımı İhale İlanı",
+        "publishedAt": "2026-10-03T06:50:50.444Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "6. Bölge Müdürlüğü Isparta Gölcük Tabiat Parkı Mal Alımı İhale İlanı"
+      },
+      {
+        "title": "\"TARDİP Projesi Ar-Ge Faaliyetleri İçin Biçerdöver Temini\" İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2708/Tardip-Projesi-Ar-Ge-Faaliyetleri-Icin-Bicerdover-Temini-Ihale-Ilani",
+        "description": "\"TARDİP Projesi Ar-Ge Faaliyetleri İçin Biçerdöver Temini\" İhale İlanı",
+        "publishedAt": "2026-10-03T06:50:50.444Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "\"TARDİP Projesi Ar-Ge Faaliyetleri İçin Biçerdöver Temini\" İhale İlanı"
+      },
+      {
+        "title": "2. Bölge Müdürlüğü Balıkesir Ayvalık Adaları TP İşletmecilik İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2704/2-Bolge-Mudurlugu-Balikesir-Ayvalik-Adalari-Tp-Isletmecilik-Ihale-Ilani",
+        "description": "2. Bölge Müdürlüğü Balıkesir Ayvalık Adaları TP İşletmecilik İhale İlanı",
+        "publishedAt": "2026-10-03T06:50:50.444Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "2. Bölge Müdürlüğü Balıkesir Ayvalık Adaları TP İşletmecilik İhale İlanı"
+      },
+      {
+        "title": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2702/Tucsap-1-2-Tob-Dijital-Modeli-Uzaktan-Algilama-Faaliyetleri-Kapsaminda-Gpu-Tabanli-Sunucu-Sistemi-Alimi-Ihale-Ilanina-Ait-Zeyilname",
+        "description": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ...",
+        "publishedAt": "2026-10-03T06:50:50.444Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ..."
+      },
+      {
+        "title": "15. Bölge Müdürlüğü Sivas Divriği Milli Parkı Yapım İşleri İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2697/15-Bolge-Mudurlugu-Sivas-Divrigi-Milli-Parki-Yapim-Isleri-Ihale-Ilani",
+        "description": "15. Bölge Müdürlüğü Sivas Divriği Milli Parkı Yapım İşleri İhale İlanı",
+        "publishedAt": "2026-10-03T06:50:50.444Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "15. Bölge Müdürlüğü Sivas Divriği Milli Parkı Yapım İşleri İhale İlanı"
+      },
+      {
+        "title": "9. Bölge Müdürlüğü Ankara Çamkoru Tabiat Parkı İşletmecilik İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2696/9-Bolge-Mudurlugu-Ankara-Camkoru-Tabiat-Parki-Isletmecilik-Ihale-Ilani",
+        "description": "9. Bölge Müdürlüğü Ankara Çamkoru Tabiat Parkı İşletmecilik İhale İlanı",
+        "publishedAt": "2026-10-03T06:50:50.444Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "9. Bölge Müdürlüğü Ankara Çamkoru Tabiat Parkı İşletmecilik İhale İlanı"
+      },
+      {
+        "title": "7. Bölge Müdürlüğü Osmaniye Çiftmazı Tabiat Parkı İşletmecilik İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2689/7-Bolge-Mudurlugu-Osmaniye-Ciftmazi-Tabiat-Parki-Isletmecilik-Ihale-Ilani",
+        "description": "7. Bölge Müdürlüğü Osmaniye Çiftmazı Tabiat Parkı İşletmecilik İhale İlanı",
+        "publishedAt": "2026-10-03T06:50:50.444Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "7. Bölge Müdürlüğü Osmaniye Çiftmazı Tabiat Parkı İşletmecilik İhale İlanı"
+      },
+      {
+        "title": "6. Bölge Müdürlüğü Isparta Hizmet Binası Bakım Onarım İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2692/6-Bolge-Mudurlugu-Isparta-Hizmet-Binasi-Bakim-Onarim-Ihale-Ilani",
+        "description": "6. Bölge Müdürlüğü Isparta Hizmet Binası Bakım Onarım İhale İlanı",
+        "publishedAt": "2026-10-03T06:50:50.444Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "6. Bölge Müdürlüğü Isparta Hizmet Binası Bakım Onarım İhale İlanı"
+      },
+      {
+        "title": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2688/Tucsap-1-2-Tob-Dijital-Modeli-Uzaktan-Algilama-Faaliyetleri-Kapsaminda-Gpu-Tabanli-Sunucu-Sistemi-Alimi-Ihale-Ilani",
+        "description": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ...",
+        "publishedAt": "2026-10-03T06:50:50.444Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ..."
+      },
+      {
+        "title": "6. Bölge Müdürlüğü Antalya Beydağları Sahil MP İşletmecilik İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2684/6-Bolge-Mudurlugu-Antalya-Beydaglari-Sahil-Mp-Isletmecilik-Ihale-Ilani",
+        "description": "6. Bölge Müdürlüğü Antalya Beydağları Sahil MP İşletmecilik İhale İlanı",
+        "publishedAt": "2026-10-03T06:50:50.444Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "6. Bölge Müdürlüğü Antalya Beydağları Sahil MP İşletmecilik İhale İlanı"
+      },
+      {
+        "title": "Devamı",
+        "url": "https://www.tarimorman.gov.tr/Haber/7304/Gida-Israfi-Calisma-Grubu-12-Toplantisini-Gerceklestirdi",
+        "description": "Devamı",
+        "publishedAt": "2026-10-03T06:50:50.444Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Devamı"
+      },
+      {
+        "title": "Devamı",
+        "url": "https://www.tarimorman.gov.tr/Haber/7301/Avrupa-Komisyonu-_dg-Sante_-Ulusal-Kalinti-Izleme-Plani-Denetimi-Acilis-Toplantisi-Gerceklestirildi",
+        "description": "Devamı",
+        "publishedAt": "2026-10-03T06:50:50.444Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Devamı"
+      },
+      {
+        "title": "Devamı",
+        "url": "https://www.tarimorman.gov.tr/Haber/7300/Sanliurfa-Ve-Mardinde-Cks-Toplantilari-Yapildi",
+        "description": "Devamı",
+        "publishedAt": "2026-10-03T06:50:50.445Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Devamı"
+      },
+      {
+        "title": "Devamı",
+        "url": "https://www.tarimorman.gov.tr/Haber/7299/Un-Ve-Unlu-Mamul-Isletmelerinde-Haccp-Tetkik-Egitimi-Karamanda-Gerceklestirildi",
+        "description": "Devamı",
+        "publishedAt": "2026-10-03T06:50:50.445Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Devamı"
+      }
+    ],
+    "itemCount": 30,
+    "lastScrapedAt": "2026-10-03T06:50:55.647Z",
+    "createdAt": "2026-10-03T06:15:34.893Z",
+    "updatedAt": "2026-10-03T06:50:55.647Z"
+  },
+  {
+    "id": "hackernews",
+    "slug": "hackernews",
+    "name": "Hacker News Frontpage",
+    "url": "https://news.ycombinator.com",
+    "description": "Top technology stories and startup discussions from Hacker News.",
+    "cachedItems": [],
+    "itemCount": 0,
+    "lastScrapedAt": "",
+    "createdAt": "2026-10-03T06:15:34.893Z",
+    "updatedAt": "2026-10-03T06:15:34.893Z"
+  },
+  {
+    "id": "t-c-tarim-ve-orman-bakanligi",
+    "slug": "t-c-tarim-ve-orman-bakanligi",
+    "name": "T.C. TARIM VE ORMAN BAKANLIĞI",
+    "url": "https://www.tarimorman.gov.tr",
+    "description": "RSS feed for T.C. TARIM VE ORMAN BAKANLIĞI generated by html2rss-web",
+    "aiSummarize": false,
+    "cachedItems": [
+      {
+        "title": "BAKANI YUMAKLI: “KAYNAKLARIMIZI KORUMAYA, YÖNETMEYE VE YARINLARA TAŞIMAYA DEVAM EDECEĞİZ”",
+        "url": "https://www.tarimorman.gov.tr/Haber/7303/Bakani-Yumakli-Kaynaklarimizi-Korumaya-Yonetmeye-Ve-Yarinlara-Tasimaya-Devam-Edecegiz",
+        "description": "BAKANI YUMAKLI: “KAYNAKLARIMIZI KORUMAYA, YÖNETMEYE VE YARINLARA TAŞIMAYA DEVAM EDECEĞİZ”",
+        "publishedAt": "2026-10-03T06:49:26.092Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKANI YUMAKLI: “KAYNAKLARIMIZI KORUMAYA, YÖNETMEYE VE YARINLARA TAŞIMAYA DEVAM EDECEĞİZ”"
+      },
+      {
+        "title": "BAKAN YUMAKLI: “TÜRKİYE, 2005'TEN BU YANA DÜNYA UN İHRACATINDA BİRİNCİLİĞİNİ KORUYOR”",
+        "url": "https://www.tarimorman.gov.tr/Haber/7297/Bakan-Yumakli-Turkiye-2005ten-Bu-Yana-Dunya-Un-Ihracatinda-Birinciligini-Koruyor",
+        "description": "BAKAN YUMAKLI: “TÜRKİYE, 2005'TEN BU YANA DÜNYA UN İHRACATINDA BİRİNCİLİĞİNİ KORUYOR”",
+        "publishedAt": "2026-10-03T06:49:26.092Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI: “TÜRKİYE, 2005'TEN BU YANA DÜNYA UN İHRACATINDA BİRİNCİLİĞİNİ KORUYOR”"
+      },
+      {
+        "title": "BAKAN YUMAKLI 2028'DE TAMAMLANMASI HEDEFLENEN EDİRNE ÇÖMLEKKÖY BARAJI'NDA İNCELEMEDE BULUNDU",
+        "url": "https://www.tarimorman.gov.tr/Haber/7295/Bakan-Yumakli-2028de-Tamamlanmasi-Hedeflenen-Edirne-Comlekkoy-Barajinda-Incelemede-Bulundu",
+        "description": "BAKAN YUMAKLI 2028'DE TAMAMLANMASI HEDEFLENEN EDİRNE ÇÖMLEKKÖY BARAJI'NDA İNCELEMEDE BULUNDU",
+        "publishedAt": "2026-10-03T06:49:26.092Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI 2028'DE TAMAMLANMASI HEDEFLENEN EDİRNE ÇÖMLEKKÖY BARAJI'NDA İNCELEMEDE BULUNDU"
+      },
+      {
+        "title": "BAKAN YUMAKLI: \"GIDA ARZ GÜVENLİĞİ İÇİN TARIM DİPLOMASİSİ ŞART\"",
+        "url": "https://www.tarimorman.gov.tr/Haber/7294/Bakan-Yumakli-Gida-Arz-Guvenligi-Icin-Tarim-Diplomasisi-Sart",
+        "description": "BAKAN YUMAKLI: \"GIDA ARZ GÜVENLİĞİ İÇİN TARIM DİPLOMASİSİ ŞART\"",
+        "publishedAt": "2026-10-03T06:49:26.092Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI: \"GIDA ARZ GÜVENLİĞİ İÇİN TARIM DİPLOMASİSİ ŞART\""
+      },
+      {
+        "title": "BAKAN YUMAKLI: “GEKİS İLE HER BÜYÜKBAŞ HAYVANIMIZIN DİJİTAL BİR KİMLİĞİ OLACAK”",
+        "url": "https://www.tarimorman.gov.tr/Haber/7292/Bakan-Yumakli-Gekis-Ile-Her-Buyukbas-Hayvanimizin-Dijital-Bir-Kimligi-Olacak",
+        "description": "BAKAN YUMAKLI: “GEKİS İLE HER BÜYÜKBAŞ HAYVANIMIZIN DİJİTAL BİR KİMLİĞİ OLACAK”",
+        "publishedAt": "2026-10-03T06:49:26.092Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI: “GEKİS İLE HER BÜYÜKBAŞ HAYVANIMIZIN DİJİTAL BİR KİMLİĞİ OLACAK”"
+      },
+      {
+        "title": "BAKAN YUMAKLI: “BU SENE 3 MİLYON 850 BİN TONLUK BİR ÜZÜM ÜRETİMİ GERÇEKLEŞMİŞ OLACAK”",
+        "url": "https://www.tarimorman.gov.tr/Haber/7290/Bakan-Yumakli-Bu-Sene-3-Milyon-850-Bin-Tonluk-Bir-Uzum-Uretimi-Gerceklesmis-Olacak",
+        "description": "BAKAN YUMAKLI: “BU SENE 3 MİLYON 850 BİN TONLUK BİR ÜZÜM ÜRETİMİ GERÇEKLEŞMİŞ OLACAK”",
+        "publishedAt": "2026-10-03T06:49:26.092Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI: “BU SENE 3 MİLYON 850 BİN TONLUK BİR ÜZÜM ÜRETİMİ GERÇEKLEŞMİŞ OLACAK”"
+      },
+      {
+        "title": "“Tarımsal Amaçlı Örgütler, 2025” İstatistik Bülteni",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2706/Tarimsal-Amacli-Orgutler-2025-Istatistik-Bulteni",
+        "description": "“Tarımsal Amaçlı Örgütler, 2025” İstatistik Bülteni",
+        "publishedAt": "2026-10-03T06:49:26.092Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "“Tarımsal Amaçlı Örgütler, 2025” İstatistik Bülteni"
+      },
+      {
+        "title": "Gübre Analizinde Yetkilendirilen Laboratuvarlar ve Referans Kuruluşları Listesi ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2705/Gubre-Analizinde-Yetkilendirilen-Laboratuvarlar-Ve-Referans-Kuruluslari-Listesi-Guncellendi",
+        "description": "Gübre Analizinde Yetkilendirilen Laboratuvarlar ve Referans Kuruluşları Listesi ...",
+        "publishedAt": "2026-10-03T06:49:26.092Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Gübre Analizinde Yetkilendirilen Laboratuvarlar ve Referans Kuruluşları Listesi ..."
+      },
+      {
+        "title": "16. Uluslararası Tarım Orman ve İnsan Fotoğraf Yarışmasında Finale Kalan Fotoğra ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2703/16-Uluslararasi-Tarim-Orman-Ve-Insan-Fotograf-Yarismasinda-Finale-Kalan-Fotograflarin-Aski-Sureci-Basliyor",
+        "description": "16. Uluslararası Tarım Orman ve İnsan Fotoğraf Yarışmasında Finale Kalan Fotoğra ...",
+        "publishedAt": "2026-10-03T06:49:26.092Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "16. Uluslararası Tarım Orman ve İnsan Fotoğraf Yarışmasında Finale Kalan Fotoğra ..."
+      },
+      {
+        "title": "3713 Sayılı Terörle Mücadele Kanunu Gereği Bakanlığımıza Yerleştirilenlerden İst ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2701/3713-Sayili-Terorle-Mucadele-Kanunu-Geregi-Bakanligimiza-Yerlestirilenlerden-Istenilen-Evraklar",
+        "description": "3713 Sayılı Terörle Mücadele Kanunu Gereği Bakanlığımıza Yerleştirilenlerden İst ...",
+        "publishedAt": "2026-10-03T06:49:26.092Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "3713 Sayılı Terörle Mücadele Kanunu Gereği Bakanlığımıza Yerleştirilenlerden İst ..."
+      },
+      {
+        "title": "“Devlet Destekli Tarım Sigortası Uygulamaları, I. Dönem: Ocak-Haziran 2026” İsta ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2700/Devlet-Destekli-Tarim-Sigortasi-Uygulamalari-I-Donem-Ocak-Haziran-2026-Istatistik-Bulteni",
+        "description": "“Devlet Destekli Tarım Sigortası Uygulamaları, I. Dönem: Ocak-Haziran 2026” İsta ...",
+        "publishedAt": "2026-10-03T06:49:26.092Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "“Devlet Destekli Tarım Sigortası Uygulamaları, I. Dönem: Ocak-Haziran 2026” İsta ..."
+      },
+      {
+        "title": "İklim, Fenolojik Durum Ve Sulama İzleme İstatistik Bülteni",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2698/Iklim-Fenolojik-Durum-Ve-Sulama-Izleme-Istatistik-Bulteni",
+        "description": "İklim, Fenolojik Durum Ve Sulama İzleme İstatistik Bülteni",
+        "publishedAt": "2026-10-03T06:49:26.092Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "İklim, Fenolojik Durum Ve Sulama İzleme İstatistik Bülteni"
+      },
+      {
+        "title": "Ünvan Değişikliği Sınavı Başarı Listesi",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2695/Unvan-Degisikligi-Sinavi-Basari-Listesi",
+        "description": "Ünvan Değişikliği Sınavı Başarı Listesi",
+        "publishedAt": "2026-10-03T06:49:26.092Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Ünvan Değişikliği Sınavı Başarı Listesi"
+      },
+      {
+        "title": "Tarım ve Orman Bakanlığı Sözleşmeli Gemi Adamı Uygulamalı Sınav İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2694/Tarim-Ve-Orman-Bakanligi-Sozlesmeli-Gemi-Adami-Uygulamali-Sinav-Ilani",
+        "description": "Tarım ve Orman Bakanlığı Sözleşmeli Gemi Adamı Uygulamalı Sınav İlanı",
+        "publishedAt": "2026-10-03T06:49:26.093Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Tarım ve Orman Bakanlığı Sözleşmeli Gemi Adamı Uygulamalı Sınav İlanı"
+      },
+      {
+        "title": "Türkiye İklim Akıllı ve Rekabetçi Büyüme Projesi – Zirai Mücadele Merkez Araştır ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2687/Turkiye-Iklim-Akilli-Ve-Rekabetci-Buyume-Projesi-%e2%80%93-Zirai-Mucadele-Merkez-Arastirma-Enstitusu-Mudurlugu-Bitki-Sagligi-Ar-Ge-Merkezi-Yapim-Isi-Ihalesi-Durum-Bildirimi",
+        "description": "Türkiye İklim Akıllı ve Rekabetçi Büyüme Projesi – Zirai Mücadele Merkez Araştır ...",
+        "publishedAt": "2026-10-03T06:49:26.093Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Türkiye İklim Akıllı ve Rekabetçi Büyüme Projesi – Zirai Mücadele Merkez Araştır ..."
+      },
+      {
+        "title": "Organize Tarım Bölgelerinde Ön Tahsis ve Arsa Tahsisi Yapılacak Parsellere İlişk ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2686/Organize-Tarim-Bolgelerinde-On-Tahsis-Ve-Arsa-Tahsisi-Yapilacak-Parsellere-Iliskin-Duyuru-_eylul-2026_",
+        "description": "Organize Tarım Bölgelerinde Ön Tahsis ve Arsa Tahsisi Yapılacak Parsellere İlişk ...",
+        "publishedAt": "2026-10-03T06:49:26.093Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Organize Tarım Bölgelerinde Ön Tahsis ve Arsa Tahsisi Yapılacak Parsellere İlişk ..."
+      },
+      {
+        "title": "6. Bölge Müdürlüğü Isparta Gölcük Tabiat Parkı Mal Alımı İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2707/6-Bolge-Mudurlugu-Isparta-Golcuk-Tabiat-Parki-Mal-Alimi-Ihale-Ilani",
+        "description": "6. Bölge Müdürlüğü Isparta Gölcük Tabiat Parkı Mal Alımı İhale İlanı",
+        "publishedAt": "2026-10-03T06:49:26.093Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "6. Bölge Müdürlüğü Isparta Gölcük Tabiat Parkı Mal Alımı İhale İlanı"
+      },
+      {
+        "title": "\"TARDİP Projesi Ar-Ge Faaliyetleri İçin Biçerdöver Temini\" İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2708/Tardip-Projesi-Ar-Ge-Faaliyetleri-Icin-Bicerdover-Temini-Ihale-Ilani",
+        "description": "\"TARDİP Projesi Ar-Ge Faaliyetleri İçin Biçerdöver Temini\" İhale İlanı",
+        "publishedAt": "2026-10-03T06:49:26.093Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "\"TARDİP Projesi Ar-Ge Faaliyetleri İçin Biçerdöver Temini\" İhale İlanı"
+      },
+      {
+        "title": "2. Bölge Müdürlüğü Balıkesir Ayvalık Adaları TP İşletmecilik İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2704/2-Bolge-Mudurlugu-Balikesir-Ayvalik-Adalari-Tp-Isletmecilik-Ihale-Ilani",
+        "description": "2. Bölge Müdürlüğü Balıkesir Ayvalık Adaları TP İşletmecilik İhale İlanı",
+        "publishedAt": "2026-10-03T06:49:26.093Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "2. Bölge Müdürlüğü Balıkesir Ayvalık Adaları TP İşletmecilik İhale İlanı"
+      },
+      {
+        "title": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2702/Tucsap-1-2-Tob-Dijital-Modeli-Uzaktan-Algilama-Faaliyetleri-Kapsaminda-Gpu-Tabanli-Sunucu-Sistemi-Alimi-Ihale-Ilanina-Ait-Zeyilname",
+        "description": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ...",
+        "publishedAt": "2026-10-03T06:49:26.093Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ..."
+      },
+      {
+        "title": "15. Bölge Müdürlüğü Sivas Divriği Milli Parkı Yapım İşleri İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2697/15-Bolge-Mudurlugu-Sivas-Divrigi-Milli-Parki-Yapim-Isleri-Ihale-Ilani",
+        "description": "15. Bölge Müdürlüğü Sivas Divriği Milli Parkı Yapım İşleri İhale İlanı",
+        "publishedAt": "2026-10-03T06:49:26.093Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "15. Bölge Müdürlüğü Sivas Divriği Milli Parkı Yapım İşleri İhale İlanı"
+      },
+      {
+        "title": "9. Bölge Müdürlüğü Ankara Çamkoru Tabiat Parkı İşletmecilik İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2696/9-Bolge-Mudurlugu-Ankara-Camkoru-Tabiat-Parki-Isletmecilik-Ihale-Ilani",
+        "description": "9. Bölge Müdürlüğü Ankara Çamkoru Tabiat Parkı İşletmecilik İhale İlanı",
+        "publishedAt": "2026-10-03T06:49:26.093Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "9. Bölge Müdürlüğü Ankara Çamkoru Tabiat Parkı İşletmecilik İhale İlanı"
+      },
+      {
+        "title": "7. Bölge Müdürlüğü Osmaniye Çiftmazı Tabiat Parkı İşletmecilik İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2689/7-Bolge-Mudurlugu-Osmaniye-Ciftmazi-Tabiat-Parki-Isletmecilik-Ihale-Ilani",
+        "description": "7. Bölge Müdürlüğü Osmaniye Çiftmazı Tabiat Parkı İşletmecilik İhale İlanı",
+        "publishedAt": "2026-10-03T06:49:26.093Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "7. Bölge Müdürlüğü Osmaniye Çiftmazı Tabiat Parkı İşletmecilik İhale İlanı"
+      },
+      {
+        "title": "6. Bölge Müdürlüğü Isparta Hizmet Binası Bakım Onarım İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2692/6-Bolge-Mudurlugu-Isparta-Hizmet-Binasi-Bakim-Onarim-Ihale-Ilani",
+        "description": "6. Bölge Müdürlüğü Isparta Hizmet Binası Bakım Onarım İhale İlanı",
+        "publishedAt": "2026-10-03T06:49:26.093Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "6. Bölge Müdürlüğü Isparta Hizmet Binası Bakım Onarım İhale İlanı"
+      },
+      {
+        "title": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2688/Tucsap-1-2-Tob-Dijital-Modeli-Uzaktan-Algilama-Faaliyetleri-Kapsaminda-Gpu-Tabanli-Sunucu-Sistemi-Alimi-Ihale-Ilani",
+        "description": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ...",
+        "publishedAt": "2026-10-03T06:49:26.093Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ..."
+      },
+      {
+        "title": "6. Bölge Müdürlüğü Antalya Beydağları Sahil MP İşletmecilik İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2684/6-Bolge-Mudurlugu-Antalya-Beydaglari-Sahil-Mp-Isletmecilik-Ihale-Ilani",
+        "description": "6. Bölge Müdürlüğü Antalya Beydağları Sahil MP İşletmecilik İhale İlanı",
+        "publishedAt": "2026-10-03T06:49:26.093Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "6. Bölge Müdürlüğü Antalya Beydağları Sahil MP İşletmecilik İhale İlanı"
+      },
+      {
+        "title": "Devamı",
+        "url": "https://www.tarimorman.gov.tr/Haber/7304/Gida-Israfi-Calisma-Grubu-12-Toplantisini-Gerceklestirdi",
+        "description": "Devamı",
+        "publishedAt": "2026-10-03T06:49:26.094Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Devamı"
+      },
+      {
+        "title": "Devamı",
+        "url": "https://www.tarimorman.gov.tr/Haber/7301/Avrupa-Komisyonu-_dg-Sante_-Ulusal-Kalinti-Izleme-Plani-Denetimi-Acilis-Toplantisi-Gerceklestirildi",
+        "description": "Devamı",
+        "publishedAt": "2026-10-03T06:49:26.094Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Devamı"
+      },
+      {
+        "title": "Devamı",
+        "url": "https://www.tarimorman.gov.tr/Haber/7300/Sanliurfa-Ve-Mardinde-Cks-Toplantilari-Yapildi",
+        "description": "Devamı",
+        "publishedAt": "2026-10-03T06:49:26.094Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Devamı"
+      },
+      {
+        "title": "Devamı",
+        "url": "https://www.tarimorman.gov.tr/Haber/7299/Un-Ve-Unlu-Mamul-Isletmelerinde-Haccp-Tetkik-Egitimi-Karamanda-Gerceklestirildi",
+        "description": "Devamı",
+        "publishedAt": "2026-10-03T06:49:26.094Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Devamı"
+      }
+    ],
+    "itemCount": 30,
+    "lastScrapedAt": "2026-10-03T06:49:26.094Z",
+    "createdAt": "2026-10-03T06:27:09.179Z",
+    "updatedAt": "2026-10-03T06:49:26.094Z"
+  },
+  {
+    "id": "tarim-haberleri",
+    "slug": "tarim-haberleri",
+    "name": "T.C. TARIM VE ORMAN BAKANLIĞI",
+    "url": "https://www.tarimorman.gov.tr",
+    "description": "RSS feed for T.C. TARIM VE ORMAN BAKANLIĞI generated by html2rss-web",
+    "aiSummarize": false,
+    "cachedItems": [
+      {
+        "title": "BAKANI YUMAKLI: “KAYNAKLARIMIZI KORUMAYA, YÖNETMEYE VE YARINLARA TAŞIMAYA DEVAM EDECEĞİZ”",
+        "url": "https://www.tarimorman.gov.tr/Haber/7303/Bakani-Yumakli-Kaynaklarimizi-Korumaya-Yonetmeye-Ve-Yarinlara-Tasimaya-Devam-Edecegiz",
+        "description": "BAKANI YUMAKLI: “KAYNAKLARIMIZI KORUMAYA, YÖNETMEYE VE YARINLARA TAŞIMAYA DEVAM EDECEĞİZ”",
+        "publishedAt": "2026-10-03T07:01:41.751Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKANI YUMAKLI: “KAYNAKLARIMIZI KORUMAYA, YÖNETMEYE VE YARINLARA TAŞIMAYA DEVAM EDECEĞİZ”"
+      },
+      {
+        "title": "BAKAN YUMAKLI: “TÜRKİYE, 2005'TEN BU YANA DÜNYA UN İHRACATINDA BİRİNCİLİĞİNİ KORUYOR”",
+        "url": "https://www.tarimorman.gov.tr/Haber/7297/Bakan-Yumakli-Turkiye-2005ten-Bu-Yana-Dunya-Un-Ihracatinda-Birinciligini-Koruyor",
+        "description": "BAKAN YUMAKLI: “TÜRKİYE, 2005'TEN BU YANA DÜNYA UN İHRACATINDA BİRİNCİLİĞİNİ KORUYOR”",
+        "publishedAt": "2026-10-03T07:01:41.752Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI: “TÜRKİYE, 2005'TEN BU YANA DÜNYA UN İHRACATINDA BİRİNCİLİĞİNİ KORUYOR”"
+      },
+      {
+        "title": "BAKAN YUMAKLI 2028'DE TAMAMLANMASI HEDEFLENEN EDİRNE ÇÖMLEKKÖY BARAJI'NDA İNCELEMEDE BULUNDU",
+        "url": "https://www.tarimorman.gov.tr/Haber/7295/Bakan-Yumakli-2028de-Tamamlanmasi-Hedeflenen-Edirne-Comlekkoy-Barajinda-Incelemede-Bulundu",
+        "description": "BAKAN YUMAKLI 2028'DE TAMAMLANMASI HEDEFLENEN EDİRNE ÇÖMLEKKÖY BARAJI'NDA İNCELEMEDE BULUNDU",
+        "publishedAt": "2026-10-03T07:01:41.753Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI 2028'DE TAMAMLANMASI HEDEFLENEN EDİRNE ÇÖMLEKKÖY BARAJI'NDA İNCELEMEDE BULUNDU"
+      },
+      {
+        "title": "BAKAN YUMAKLI: \"GIDA ARZ GÜVENLİĞİ İÇİN TARIM DİPLOMASİSİ ŞART\"",
+        "url": "https://www.tarimorman.gov.tr/Haber/7294/Bakan-Yumakli-Gida-Arz-Guvenligi-Icin-Tarim-Diplomasisi-Sart",
+        "description": "BAKAN YUMAKLI: \"GIDA ARZ GÜVENLİĞİ İÇİN TARIM DİPLOMASİSİ ŞART\"",
+        "publishedAt": "2026-10-03T07:01:41.753Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI: \"GIDA ARZ GÜVENLİĞİ İÇİN TARIM DİPLOMASİSİ ŞART\""
+      },
+      {
+        "title": "BAKAN YUMAKLI: “GEKİS İLE HER BÜYÜKBAŞ HAYVANIMIZIN DİJİTAL BİR KİMLİĞİ OLACAK”",
+        "url": "https://www.tarimorman.gov.tr/Haber/7292/Bakan-Yumakli-Gekis-Ile-Her-Buyukbas-Hayvanimizin-Dijital-Bir-Kimligi-Olacak",
+        "description": "BAKAN YUMAKLI: “GEKİS İLE HER BÜYÜKBAŞ HAYVANIMIZIN DİJİTAL BİR KİMLİĞİ OLACAK”",
+        "publishedAt": "2026-10-03T07:01:41.753Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI: “GEKİS İLE HER BÜYÜKBAŞ HAYVANIMIZIN DİJİTAL BİR KİMLİĞİ OLACAK”"
+      },
+      {
+        "title": "BAKAN YUMAKLI: “BU SENE 3 MİLYON 850 BİN TONLUK BİR ÜZÜM ÜRETİMİ GERÇEKLEŞMİŞ OLACAK”",
+        "url": "https://www.tarimorman.gov.tr/Haber/7290/Bakan-Yumakli-Bu-Sene-3-Milyon-850-Bin-Tonluk-Bir-Uzum-Uretimi-Gerceklesmis-Olacak",
+        "description": "BAKAN YUMAKLI: “BU SENE 3 MİLYON 850 BİN TONLUK BİR ÜZÜM ÜRETİMİ GERÇEKLEŞMİŞ OLACAK”",
+        "publishedAt": "2026-10-03T07:01:41.753Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI: “BU SENE 3 MİLYON 850 BİN TONLUK BİR ÜZÜM ÜRETİMİ GERÇEKLEŞMİŞ OLACAK”"
+      },
+      {
+        "title": "“Tarımsal Amaçlı Örgütler, 2025” İstatistik Bülteni",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2706/Tarimsal-Amacli-Orgutler-2025-Istatistik-Bulteni",
+        "description": "“Tarımsal Amaçlı Örgütler, 2025” İstatistik Bülteni",
+        "publishedAt": "2026-10-03T07:01:41.754Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "“Tarımsal Amaçlı Örgütler, 2025” İstatistik Bülteni"
+      },
+      {
+        "title": "Gübre Analizinde Yetkilendirilen Laboratuvarlar ve Referans Kuruluşları Listesi ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2705/Gubre-Analizinde-Yetkilendirilen-Laboratuvarlar-Ve-Referans-Kuruluslari-Listesi-Guncellendi",
+        "description": "Gübre Analizinde Yetkilendirilen Laboratuvarlar ve Referans Kuruluşları Listesi ...",
+        "publishedAt": "2026-10-03T07:01:41.754Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Gübre Analizinde Yetkilendirilen Laboratuvarlar ve Referans Kuruluşları Listesi ..."
+      },
+      {
+        "title": "16. Uluslararası Tarım Orman ve İnsan Fotoğraf Yarışmasında Finale Kalan Fotoğra ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2703/16-Uluslararasi-Tarim-Orman-Ve-Insan-Fotograf-Yarismasinda-Finale-Kalan-Fotograflarin-Aski-Sureci-Basliyor",
+        "description": "16. Uluslararası Tarım Orman ve İnsan Fotoğraf Yarışmasında Finale Kalan Fotoğra ...",
+        "publishedAt": "2026-10-03T07:01:41.754Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "16. Uluslararası Tarım Orman ve İnsan Fotoğraf Yarışmasında Finale Kalan Fotoğra ..."
+      },
+      {
+        "title": "3713 Sayılı Terörle Mücadele Kanunu Gereği Bakanlığımıza Yerleştirilenlerden İst ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2701/3713-Sayili-Terorle-Mucadele-Kanunu-Geregi-Bakanligimiza-Yerlestirilenlerden-Istenilen-Evraklar",
+        "description": "3713 Sayılı Terörle Mücadele Kanunu Gereği Bakanlığımıza Yerleştirilenlerden İst ...",
+        "publishedAt": "2026-10-03T07:01:41.754Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "3713 Sayılı Terörle Mücadele Kanunu Gereği Bakanlığımıza Yerleştirilenlerden İst ..."
+      },
+      {
+        "title": "“Devlet Destekli Tarım Sigortası Uygulamaları, I. Dönem: Ocak-Haziran 2026” İsta ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2700/Devlet-Destekli-Tarim-Sigortasi-Uygulamalari-I-Donem-Ocak-Haziran-2026-Istatistik-Bulteni",
+        "description": "“Devlet Destekli Tarım Sigortası Uygulamaları, I. Dönem: Ocak-Haziran 2026” İsta ...",
+        "publishedAt": "2026-10-03T07:01:41.754Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "“Devlet Destekli Tarım Sigortası Uygulamaları, I. Dönem: Ocak-Haziran 2026” İsta ..."
+      },
+      {
+        "title": "İklim, Fenolojik Durum Ve Sulama İzleme İstatistik Bülteni",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2698/Iklim-Fenolojik-Durum-Ve-Sulama-Izleme-Istatistik-Bulteni",
+        "description": "İklim, Fenolojik Durum Ve Sulama İzleme İstatistik Bülteni",
+        "publishedAt": "2026-10-03T07:01:41.755Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "İklim, Fenolojik Durum Ve Sulama İzleme İstatistik Bülteni"
+      },
+      {
+        "title": "Ünvan Değişikliği Sınavı Başarı Listesi",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2695/Unvan-Degisikligi-Sinavi-Basari-Listesi",
+        "description": "Ünvan Değişikliği Sınavı Başarı Listesi",
+        "publishedAt": "2026-10-03T07:01:41.755Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Ünvan Değişikliği Sınavı Başarı Listesi"
+      },
+      {
+        "title": "Tarım ve Orman Bakanlığı Sözleşmeli Gemi Adamı Uygulamalı Sınav İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2694/Tarim-Ve-Orman-Bakanligi-Sozlesmeli-Gemi-Adami-Uygulamali-Sinav-Ilani",
+        "description": "Tarım ve Orman Bakanlığı Sözleşmeli Gemi Adamı Uygulamalı Sınav İlanı",
+        "publishedAt": "2026-10-03T07:01:41.755Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Tarım ve Orman Bakanlığı Sözleşmeli Gemi Adamı Uygulamalı Sınav İlanı"
+      },
+      {
+        "title": "Türkiye İklim Akıllı ve Rekabetçi Büyüme Projesi – Zirai Mücadele Merkez Araştır ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2687/Turkiye-Iklim-Akilli-Ve-Rekabetci-Buyume-Projesi-%e2%80%93-Zirai-Mucadele-Merkez-Arastirma-Enstitusu-Mudurlugu-Bitki-Sagligi-Ar-Ge-Merkezi-Yapim-Isi-Ihalesi-Durum-Bildirimi",
+        "description": "Türkiye İklim Akıllı ve Rekabetçi Büyüme Projesi – Zirai Mücadele Merkez Araştır ...",
+        "publishedAt": "2026-10-03T07:01:41.755Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Türkiye İklim Akıllı ve Rekabetçi Büyüme Projesi – Zirai Mücadele Merkez Araştır ..."
+      },
+      {
+        "title": "Organize Tarım Bölgelerinde Ön Tahsis ve Arsa Tahsisi Yapılacak Parsellere İlişk ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2686/Organize-Tarim-Bolgelerinde-On-Tahsis-Ve-Arsa-Tahsisi-Yapilacak-Parsellere-Iliskin-Duyuru-_eylul-2026_",
+        "description": "Organize Tarım Bölgelerinde Ön Tahsis ve Arsa Tahsisi Yapılacak Parsellere İlişk ...",
+        "publishedAt": "2026-10-03T07:01:41.755Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Organize Tarım Bölgelerinde Ön Tahsis ve Arsa Tahsisi Yapılacak Parsellere İlişk ..."
+      },
+      {
+        "title": "6. Bölge Müdürlüğü Isparta Gölcük Tabiat Parkı Mal Alımı İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2707/6-Bolge-Mudurlugu-Isparta-Golcuk-Tabiat-Parki-Mal-Alimi-Ihale-Ilani",
+        "description": "6. Bölge Müdürlüğü Isparta Gölcük Tabiat Parkı Mal Alımı İhale İlanı",
+        "publishedAt": "2026-10-03T07:01:41.756Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "6. Bölge Müdürlüğü Isparta Gölcük Tabiat Parkı Mal Alımı İhale İlanı"
+      },
+      {
+        "title": "\"TARDİP Projesi Ar-Ge Faaliyetleri İçin Biçerdöver Temini\" İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2708/Tardip-Projesi-Ar-Ge-Faaliyetleri-Icin-Bicerdover-Temini-Ihale-Ilani",
+        "description": "\"TARDİP Projesi Ar-Ge Faaliyetleri İçin Biçerdöver Temini\" İhale İlanı",
+        "publishedAt": "2026-10-03T07:01:41.756Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "\"TARDİP Projesi Ar-Ge Faaliyetleri İçin Biçerdöver Temini\" İhale İlanı"
+      },
+      {
+        "title": "2. Bölge Müdürlüğü Balıkesir Ayvalık Adaları TP İşletmecilik İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2704/2-Bolge-Mudurlugu-Balikesir-Ayvalik-Adalari-Tp-Isletmecilik-Ihale-Ilani",
+        "description": "2. Bölge Müdürlüğü Balıkesir Ayvalık Adaları TP İşletmecilik İhale İlanı",
+        "publishedAt": "2026-10-03T07:01:41.756Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "2. Bölge Müdürlüğü Balıkesir Ayvalık Adaları TP İşletmecilik İhale İlanı"
+      },
+      {
+        "title": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2702/Tucsap-1-2-Tob-Dijital-Modeli-Uzaktan-Algilama-Faaliyetleri-Kapsaminda-Gpu-Tabanli-Sunucu-Sistemi-Alimi-Ihale-Ilanina-Ait-Zeyilname",
+        "description": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ...",
+        "publishedAt": "2026-10-03T07:01:41.756Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ..."
+      },
+      {
+        "title": "15. Bölge Müdürlüğü Sivas Divriği Milli Parkı Yapım İşleri İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2697/15-Bolge-Mudurlugu-Sivas-Divrigi-Milli-Parki-Yapim-Isleri-Ihale-Ilani",
+        "description": "15. Bölge Müdürlüğü Sivas Divriği Milli Parkı Yapım İşleri İhale İlanı",
+        "publishedAt": "2026-10-03T07:01:41.756Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "15. Bölge Müdürlüğü Sivas Divriği Milli Parkı Yapım İşleri İhale İlanı"
+      },
+      {
+        "title": "9. Bölge Müdürlüğü Ankara Çamkoru Tabiat Parkı İşletmecilik İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2696/9-Bolge-Mudurlugu-Ankara-Camkoru-Tabiat-Parki-Isletmecilik-Ihale-Ilani",
+        "description": "9. Bölge Müdürlüğü Ankara Çamkoru Tabiat Parkı İşletmecilik İhale İlanı",
+        "publishedAt": "2026-10-03T07:01:41.756Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "9. Bölge Müdürlüğü Ankara Çamkoru Tabiat Parkı İşletmecilik İhale İlanı"
+      },
+      {
+        "title": "7. Bölge Müdürlüğü Osmaniye Çiftmazı Tabiat Parkı İşletmecilik İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2689/7-Bolge-Mudurlugu-Osmaniye-Ciftmazi-Tabiat-Parki-Isletmecilik-Ihale-Ilani",
+        "description": "7. Bölge Müdürlüğü Osmaniye Çiftmazı Tabiat Parkı İşletmecilik İhale İlanı",
+        "publishedAt": "2026-10-03T07:01:41.757Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "7. Bölge Müdürlüğü Osmaniye Çiftmazı Tabiat Parkı İşletmecilik İhale İlanı"
+      },
+      {
+        "title": "6. Bölge Müdürlüğü Isparta Hizmet Binası Bakım Onarım İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2692/6-Bolge-Mudurlugu-Isparta-Hizmet-Binasi-Bakim-Onarim-Ihale-Ilani",
+        "description": "6. Bölge Müdürlüğü Isparta Hizmet Binası Bakım Onarım İhale İlanı",
+        "publishedAt": "2026-10-03T07:01:41.757Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "6. Bölge Müdürlüğü Isparta Hizmet Binası Bakım Onarım İhale İlanı"
+      },
+      {
+        "title": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2688/Tucsap-1-2-Tob-Dijital-Modeli-Uzaktan-Algilama-Faaliyetleri-Kapsaminda-Gpu-Tabanli-Sunucu-Sistemi-Alimi-Ihale-Ilani",
+        "description": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ...",
+        "publishedAt": "2026-10-03T07:01:41.757Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ..."
+      },
+      {
+        "title": "6. Bölge Müdürlüğü Antalya Beydağları Sahil MP İşletmecilik İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2684/6-Bolge-Mudurlugu-Antalya-Beydaglari-Sahil-Mp-Isletmecilik-Ihale-Ilani",
+        "description": "6. Bölge Müdürlüğü Antalya Beydağları Sahil MP İşletmecilik İhale İlanı",
+        "publishedAt": "2026-10-03T07:01:41.757Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "6. Bölge Müdürlüğü Antalya Beydağları Sahil MP İşletmecilik İhale İlanı"
+      },
+      {
+        "title": "Devamı",
+        "url": "https://www.tarimorman.gov.tr/Haber/7304/Gida-Israfi-Calisma-Grubu-12-Toplantisini-Gerceklestirdi",
+        "description": "Devamı",
+        "publishedAt": "2026-10-03T07:01:41.758Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Devamı"
+      },
+      {
+        "title": "Devamı",
+        "url": "https://www.tarimorman.gov.tr/Haber/7301/Avrupa-Komisyonu-_dg-Sante_-Ulusal-Kalinti-Izleme-Plani-Denetimi-Acilis-Toplantisi-Gerceklestirildi",
+        "description": "Devamı",
+        "publishedAt": "2026-10-03T07:01:41.758Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Devamı"
+      },
+      {
+        "title": "Devamı",
+        "url": "https://www.tarimorman.gov.tr/Haber/7300/Sanliurfa-Ve-Mardinde-Cks-Toplantilari-Yapildi",
+        "description": "Devamı",
+        "publishedAt": "2026-10-03T07:01:41.758Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Devamı"
+      },
+      {
+        "title": "Devamı",
+        "url": "https://www.tarimorman.gov.tr/Haber/7299/Un-Ve-Unlu-Mamul-Isletmelerinde-Haccp-Tetkik-Egitimi-Karamanda-Gerceklestirildi",
+        "description": "Devamı",
+        "publishedAt": "2026-10-03T07:01:41.759Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Devamı"
+      },
+      {
+        "title": "Devamı",
+        "url": "https://www.tarimorman.gov.tr/Haber/7298/Kars-Ve-Bingolde-Doga-Temelli-Tarim-Donemi-Basliyor",
+        "description": "Devamı",
+        "publishedAt": "2026-10-03T07:01:41.759Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Devamı"
+      }
+    ],
+    "itemCount": 31,
+    "lastScrapedAt": "2026-10-03T07:01:41.760Z",
+    "createdAt": "2026-10-03T06:15:34.892Z",
+    "updatedAt": "2026-10-03T07:01:49.529Z"
+  },
+  {
+    "id": "tarimorman",
+    "slug": "tarimorman",
+    "name": "T.C. Tarım ve Orman Bakanlığı",
+    "url": "https://www.tarimorman.gov.tr",
+    "description": "RSS feed for T.C. TARIM VE ORMAN BAKANLIĞI generated by html2rss-web",
+    "aiSummarize": false,
+    "cachedItems": [
+      {
+        "title": "BAKANI YUMAKLI: “KAYNAKLARIMIZI KORUMAYA, YÖNETMEYE VE YARINLARA TAŞIMAYA DEVAM EDECEĞİZ”",
+        "url": "https://www.tarimorman.gov.tr/Haber/7303/Bakani-Yumakli-Kaynaklarimizi-Korumaya-Yonetmeye-Ve-Yarinlara-Tasimaya-Devam-Edecegiz",
+        "description": "BAKANI YUMAKLI: “KAYNAKLARIMIZI KORUMAYA, YÖNETMEYE VE YARINLARA TAŞIMAYA DEVAM EDECEĞİZ”",
+        "publishedAt": "2026-10-03T07:01:58.771Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKANI YUMAKLI: “KAYNAKLARIMIZI KORUMAYA, YÖNETMEYE VE YARINLARA TAŞIMAYA DEVAM EDECEĞİZ”"
+      },
+      {
+        "title": "BAKAN YUMAKLI: “TÜRKİYE, 2005'TEN BU YANA DÜNYA UN İHRACATINDA BİRİNCİLİĞİNİ KORUYOR”",
+        "url": "https://www.tarimorman.gov.tr/Haber/7297/Bakan-Yumakli-Turkiye-2005ten-Bu-Yana-Dunya-Un-Ihracatinda-Birinciligini-Koruyor",
+        "description": "BAKAN YUMAKLI: “TÜRKİYE, 2005'TEN BU YANA DÜNYA UN İHRACATINDA BİRİNCİLİĞİNİ KORUYOR”",
+        "publishedAt": "2026-10-03T07:01:58.771Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI: “TÜRKİYE, 2005'TEN BU YANA DÜNYA UN İHRACATINDA BİRİNCİLİĞİNİ KORUYOR”"
+      },
+      {
+        "title": "BAKAN YUMAKLI 2028'DE TAMAMLANMASI HEDEFLENEN EDİRNE ÇÖMLEKKÖY BARAJI'NDA İNCELEMEDE BULUNDU",
+        "url": "https://www.tarimorman.gov.tr/Haber/7295/Bakan-Yumakli-2028de-Tamamlanmasi-Hedeflenen-Edirne-Comlekkoy-Barajinda-Incelemede-Bulundu",
+        "description": "BAKAN YUMAKLI 2028'DE TAMAMLANMASI HEDEFLENEN EDİRNE ÇÖMLEKKÖY BARAJI'NDA İNCELEMEDE BULUNDU",
+        "publishedAt": "2026-10-03T07:01:58.772Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI 2028'DE TAMAMLANMASI HEDEFLENEN EDİRNE ÇÖMLEKKÖY BARAJI'NDA İNCELEMEDE BULUNDU"
+      },
+      {
+        "title": "BAKAN YUMAKLI: \"GIDA ARZ GÜVENLİĞİ İÇİN TARIM DİPLOMASİSİ ŞART\"",
+        "url": "https://www.tarimorman.gov.tr/Haber/7294/Bakan-Yumakli-Gida-Arz-Guvenligi-Icin-Tarim-Diplomasisi-Sart",
+        "description": "BAKAN YUMAKLI: \"GIDA ARZ GÜVENLİĞİ İÇİN TARIM DİPLOMASİSİ ŞART\"",
+        "publishedAt": "2026-10-03T07:01:58.772Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI: \"GIDA ARZ GÜVENLİĞİ İÇİN TARIM DİPLOMASİSİ ŞART\""
+      },
+      {
+        "title": "BAKAN YUMAKLI: “GEKİS İLE HER BÜYÜKBAŞ HAYVANIMIZIN DİJİTAL BİR KİMLİĞİ OLACAK”",
+        "url": "https://www.tarimorman.gov.tr/Haber/7292/Bakan-Yumakli-Gekis-Ile-Her-Buyukbas-Hayvanimizin-Dijital-Bir-Kimligi-Olacak",
+        "description": "BAKAN YUMAKLI: “GEKİS İLE HER BÜYÜKBAŞ HAYVANIMIZIN DİJİTAL BİR KİMLİĞİ OLACAK”",
+        "publishedAt": "2026-10-03T07:01:58.772Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI: “GEKİS İLE HER BÜYÜKBAŞ HAYVANIMIZIN DİJİTAL BİR KİMLİĞİ OLACAK”"
+      },
+      {
+        "title": "BAKAN YUMAKLI: “BU SENE 3 MİLYON 850 BİN TONLUK BİR ÜZÜM ÜRETİMİ GERÇEKLEŞMİŞ OLACAK”",
+        "url": "https://www.tarimorman.gov.tr/Haber/7290/Bakan-Yumakli-Bu-Sene-3-Milyon-850-Bin-Tonluk-Bir-Uzum-Uretimi-Gerceklesmis-Olacak",
+        "description": "BAKAN YUMAKLI: “BU SENE 3 MİLYON 850 BİN TONLUK BİR ÜZÜM ÜRETİMİ GERÇEKLEŞMİŞ OLACAK”",
+        "publishedAt": "2026-10-03T07:01:58.772Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "BAKAN YUMAKLI: “BU SENE 3 MİLYON 850 BİN TONLUK BİR ÜZÜM ÜRETİMİ GERÇEKLEŞMİŞ OLACAK”"
+      },
+      {
+        "title": "“Tarımsal Amaçlı Örgütler, 2025” İstatistik Bülteni",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2706/Tarimsal-Amacli-Orgutler-2025-Istatistik-Bulteni",
+        "description": "“Tarımsal Amaçlı Örgütler, 2025” İstatistik Bülteni",
+        "publishedAt": "2026-10-03T07:01:58.772Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "“Tarımsal Amaçlı Örgütler, 2025” İstatistik Bülteni"
+      },
+      {
+        "title": "Gübre Analizinde Yetkilendirilen Laboratuvarlar ve Referans Kuruluşları Listesi ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2705/Gubre-Analizinde-Yetkilendirilen-Laboratuvarlar-Ve-Referans-Kuruluslari-Listesi-Guncellendi",
+        "description": "Gübre Analizinde Yetkilendirilen Laboratuvarlar ve Referans Kuruluşları Listesi ...",
+        "publishedAt": "2026-10-03T07:01:58.772Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Gübre Analizinde Yetkilendirilen Laboratuvarlar ve Referans Kuruluşları Listesi ..."
+      },
+      {
+        "title": "16. Uluslararası Tarım Orman ve İnsan Fotoğraf Yarışmasında Finale Kalan Fotoğra ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2703/16-Uluslararasi-Tarim-Orman-Ve-Insan-Fotograf-Yarismasinda-Finale-Kalan-Fotograflarin-Aski-Sureci-Basliyor",
+        "description": "16. Uluslararası Tarım Orman ve İnsan Fotoğraf Yarışmasında Finale Kalan Fotoğra ...",
+        "publishedAt": "2026-10-03T07:01:58.772Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "16. Uluslararası Tarım Orman ve İnsan Fotoğraf Yarışmasında Finale Kalan Fotoğra ..."
+      },
+      {
+        "title": "3713 Sayılı Terörle Mücadele Kanunu Gereği Bakanlığımıza Yerleştirilenlerden İst ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2701/3713-Sayili-Terorle-Mucadele-Kanunu-Geregi-Bakanligimiza-Yerlestirilenlerden-Istenilen-Evraklar",
+        "description": "3713 Sayılı Terörle Mücadele Kanunu Gereği Bakanlığımıza Yerleştirilenlerden İst ...",
+        "publishedAt": "2026-10-03T07:01:58.772Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "3713 Sayılı Terörle Mücadele Kanunu Gereği Bakanlığımıza Yerleştirilenlerden İst ..."
+      },
+      {
+        "title": "“Devlet Destekli Tarım Sigortası Uygulamaları, I. Dönem: Ocak-Haziran 2026” İsta ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2700/Devlet-Destekli-Tarim-Sigortasi-Uygulamalari-I-Donem-Ocak-Haziran-2026-Istatistik-Bulteni",
+        "description": "“Devlet Destekli Tarım Sigortası Uygulamaları, I. Dönem: Ocak-Haziran 2026” İsta ...",
+        "publishedAt": "2026-10-03T07:01:58.772Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "“Devlet Destekli Tarım Sigortası Uygulamaları, I. Dönem: Ocak-Haziran 2026” İsta ..."
+      },
+      {
+        "title": "İklim, Fenolojik Durum Ve Sulama İzleme İstatistik Bülteni",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2698/Iklim-Fenolojik-Durum-Ve-Sulama-Izleme-Istatistik-Bulteni",
+        "description": "İklim, Fenolojik Durum Ve Sulama İzleme İstatistik Bülteni",
+        "publishedAt": "2026-10-03T07:01:58.773Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "İklim, Fenolojik Durum Ve Sulama İzleme İstatistik Bülteni"
+      },
+      {
+        "title": "Ünvan Değişikliği Sınavı Başarı Listesi",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2695/Unvan-Degisikligi-Sinavi-Basari-Listesi",
+        "description": "Ünvan Değişikliği Sınavı Başarı Listesi",
+        "publishedAt": "2026-10-03T07:01:58.773Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Ünvan Değişikliği Sınavı Başarı Listesi"
+      },
+      {
+        "title": "Tarım ve Orman Bakanlığı Sözleşmeli Gemi Adamı Uygulamalı Sınav İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2694/Tarim-Ve-Orman-Bakanligi-Sozlesmeli-Gemi-Adami-Uygulamali-Sinav-Ilani",
+        "description": "Tarım ve Orman Bakanlığı Sözleşmeli Gemi Adamı Uygulamalı Sınav İlanı",
+        "publishedAt": "2026-10-03T07:01:58.773Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Tarım ve Orman Bakanlığı Sözleşmeli Gemi Adamı Uygulamalı Sınav İlanı"
+      },
+      {
+        "title": "Türkiye İklim Akıllı ve Rekabetçi Büyüme Projesi – Zirai Mücadele Merkez Araştır ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2687/Turkiye-Iklim-Akilli-Ve-Rekabetci-Buyume-Projesi-%e2%80%93-Zirai-Mucadele-Merkez-Arastirma-Enstitusu-Mudurlugu-Bitki-Sagligi-Ar-Ge-Merkezi-Yapim-Isi-Ihalesi-Durum-Bildirimi",
+        "description": "Türkiye İklim Akıllı ve Rekabetçi Büyüme Projesi – Zirai Mücadele Merkez Araştır ...",
+        "publishedAt": "2026-10-03T07:01:58.773Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Türkiye İklim Akıllı ve Rekabetçi Büyüme Projesi – Zirai Mücadele Merkez Araştır ..."
+      },
+      {
+        "title": "Organize Tarım Bölgelerinde Ön Tahsis ve Arsa Tahsisi Yapılacak Parsellere İlişk ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2686/Organize-Tarim-Bolgelerinde-On-Tahsis-Ve-Arsa-Tahsisi-Yapilacak-Parsellere-Iliskin-Duyuru-_eylul-2026_",
+        "description": "Organize Tarım Bölgelerinde Ön Tahsis ve Arsa Tahsisi Yapılacak Parsellere İlişk ...",
+        "publishedAt": "2026-10-03T07:01:58.773Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Organize Tarım Bölgelerinde Ön Tahsis ve Arsa Tahsisi Yapılacak Parsellere İlişk ..."
+      },
+      {
+        "title": "6. Bölge Müdürlüğü Isparta Gölcük Tabiat Parkı Mal Alımı İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2707/6-Bolge-Mudurlugu-Isparta-Golcuk-Tabiat-Parki-Mal-Alimi-Ihale-Ilani",
+        "description": "6. Bölge Müdürlüğü Isparta Gölcük Tabiat Parkı Mal Alımı İhale İlanı",
+        "publishedAt": "2026-10-03T07:01:58.773Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "6. Bölge Müdürlüğü Isparta Gölcük Tabiat Parkı Mal Alımı İhale İlanı"
+      },
+      {
+        "title": "\"TARDİP Projesi Ar-Ge Faaliyetleri İçin Biçerdöver Temini\" İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2708/Tardip-Projesi-Ar-Ge-Faaliyetleri-Icin-Bicerdover-Temini-Ihale-Ilani",
+        "description": "\"TARDİP Projesi Ar-Ge Faaliyetleri İçin Biçerdöver Temini\" İhale İlanı",
+        "publishedAt": "2026-10-03T07:01:58.773Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "\"TARDİP Projesi Ar-Ge Faaliyetleri İçin Biçerdöver Temini\" İhale İlanı"
+      },
+      {
+        "title": "2. Bölge Müdürlüğü Balıkesir Ayvalık Adaları TP İşletmecilik İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2704/2-Bolge-Mudurlugu-Balikesir-Ayvalik-Adalari-Tp-Isletmecilik-Ihale-Ilani",
+        "description": "2. Bölge Müdürlüğü Balıkesir Ayvalık Adaları TP İşletmecilik İhale İlanı",
+        "publishedAt": "2026-10-03T07:01:58.773Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "2. Bölge Müdürlüğü Balıkesir Ayvalık Adaları TP İşletmecilik İhale İlanı"
+      },
+      {
+        "title": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2702/Tucsap-1-2-Tob-Dijital-Modeli-Uzaktan-Algilama-Faaliyetleri-Kapsaminda-Gpu-Tabanli-Sunucu-Sistemi-Alimi-Ihale-Ilanina-Ait-Zeyilname",
+        "description": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ...",
+        "publishedAt": "2026-10-03T07:01:58.773Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ..."
+      },
+      {
+        "title": "15. Bölge Müdürlüğü Sivas Divriği Milli Parkı Yapım İşleri İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2697/15-Bolge-Mudurlugu-Sivas-Divrigi-Milli-Parki-Yapim-Isleri-Ihale-Ilani",
+        "description": "15. Bölge Müdürlüğü Sivas Divriği Milli Parkı Yapım İşleri İhale İlanı",
+        "publishedAt": "2026-10-03T07:01:58.773Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "15. Bölge Müdürlüğü Sivas Divriği Milli Parkı Yapım İşleri İhale İlanı"
+      },
+      {
+        "title": "9. Bölge Müdürlüğü Ankara Çamkoru Tabiat Parkı İşletmecilik İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2696/9-Bolge-Mudurlugu-Ankara-Camkoru-Tabiat-Parki-Isletmecilik-Ihale-Ilani",
+        "description": "9. Bölge Müdürlüğü Ankara Çamkoru Tabiat Parkı İşletmecilik İhale İlanı",
+        "publishedAt": "2026-10-03T07:01:58.774Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "9. Bölge Müdürlüğü Ankara Çamkoru Tabiat Parkı İşletmecilik İhale İlanı"
+      },
+      {
+        "title": "7. Bölge Müdürlüğü Osmaniye Çiftmazı Tabiat Parkı İşletmecilik İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2689/7-Bolge-Mudurlugu-Osmaniye-Ciftmazi-Tabiat-Parki-Isletmecilik-Ihale-Ilani",
+        "description": "7. Bölge Müdürlüğü Osmaniye Çiftmazı Tabiat Parkı İşletmecilik İhale İlanı",
+        "publishedAt": "2026-10-03T07:01:58.774Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "7. Bölge Müdürlüğü Osmaniye Çiftmazı Tabiat Parkı İşletmecilik İhale İlanı"
+      },
+      {
+        "title": "6. Bölge Müdürlüğü Isparta Hizmet Binası Bakım Onarım İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2692/6-Bolge-Mudurlugu-Isparta-Hizmet-Binasi-Bakim-Onarim-Ihale-Ilani",
+        "description": "6. Bölge Müdürlüğü Isparta Hizmet Binası Bakım Onarım İhale İlanı",
+        "publishedAt": "2026-10-03T07:01:58.774Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "6. Bölge Müdürlüğü Isparta Hizmet Binası Bakım Onarım İhale İlanı"
+      },
+      {
+        "title": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ...",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2688/Tucsap-1-2-Tob-Dijital-Modeli-Uzaktan-Algilama-Faaliyetleri-Kapsaminda-Gpu-Tabanli-Sunucu-Sistemi-Alimi-Ihale-Ilani",
+        "description": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ...",
+        "publishedAt": "2026-10-03T07:01:58.774Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "“TUCSAP 1.2 TOB Dijital Modeli Uzaktan Algılama Faaliyetleri Kapsamında GPU Taba ..."
+      },
+      {
+        "title": "6. Bölge Müdürlüğü Antalya Beydağları Sahil MP İşletmecilik İhale İlanı",
+        "url": "https://www.tarimorman.gov.tr/Duyuru/2684/6-Bolge-Mudurlugu-Antalya-Beydaglari-Sahil-Mp-Isletmecilik-Ihale-Ilani",
+        "description": "6. Bölge Müdürlüğü Antalya Beydağları Sahil MP İşletmecilik İhale İlanı",
+        "publishedAt": "2026-10-03T07:01:58.774Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "6. Bölge Müdürlüğü Antalya Beydağları Sahil MP İşletmecilik İhale İlanı"
+      },
+      {
+        "title": "Devamı",
+        "url": "https://www.tarimorman.gov.tr/Haber/7304/Gida-Israfi-Calisma-Grubu-12-Toplantisini-Gerceklestirdi",
+        "description": "Devamı",
+        "publishedAt": "2026-10-03T07:01:58.774Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Devamı"
+      },
+      {
+        "title": "Devamı",
+        "url": "https://www.tarimorman.gov.tr/Haber/7301/Avrupa-Komisyonu-_dg-Sante_-Ulusal-Kalinti-Izleme-Plani-Denetimi-Acilis-Toplantisi-Gerceklestirildi",
+        "description": "Devamı",
+        "publishedAt": "2026-10-03T07:01:58.775Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Devamı"
+      },
+      {
+        "title": "Devamı",
+        "url": "https://www.tarimorman.gov.tr/Haber/7300/Sanliurfa-Ve-Mardinde-Cks-Toplantilari-Yapildi",
+        "description": "Devamı",
+        "publishedAt": "2026-10-03T07:01:58.775Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Devamı"
+      },
+      {
+        "title": "Devamı",
+        "url": "https://www.tarimorman.gov.tr/Haber/7299/Un-Ve-Unlu-Mamul-Isletmelerinde-Haccp-Tetkik-Egitimi-Karamanda-Gerceklestirildi",
+        "description": "Devamı",
+        "publishedAt": "2026-10-03T07:01:58.775Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Devamı"
+      },
+      {
+        "title": "Devamı",
+        "url": "https://www.tarimorman.gov.tr/Haber/7298/Kars-Ve-Bingolde-Doga-Temelli-Tarim-Donemi-Basliyor",
+        "description": "Devamı",
+        "publishedAt": "2026-10-03T07:01:58.776Z",
+        "publishedLabel": "Son Haberler",
+        "excerpt": "Devamı"
+      }
+    ],
+    "itemCount": 31,
+    "lastScrapedAt": "2026-10-03T07:01:58.776Z",
+    "createdAt": "2026-10-03T07:01:58.776Z",
+    "updatedAt": "2026-10-03T07:01:58.776Z"
+  }
+]
