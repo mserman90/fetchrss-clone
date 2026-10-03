@@ -1,34 +1,36 @@
 {
   "version": 2,
-  "installCommand": "npm install --legacy-peer-deps",
-  "buildCommand": "npm run build",
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "/api"
+      "destination": "/api/$1"
+    },
+    {
+      "source": "/feed",
+      "destination": "/api/feed"
+    },
+    {
+      "source": "/feed/(.*)",
+      "destination": "/api/feed/$1"
     },
     {
       "source": "/feeds/(.*)",
-      "destination": "/api"
-    },
-    {
-      "source": "/feed(.*)",
-      "destination": "/api"
+      "destination": "/api/feeds/$1"
     },
     {
       "source": "/rss/(.*)",
-      "destination": "/api"
+      "destination": "/api/rss/$1"
     },
     {
       "source": "/json/(.*)",
-      "destination": "/api"
+      "destination": "/api/json/$1"
     },
     {
-      "source": "/(.*\\.(?:rss|xml|json))$",
-      "destination": "/api"
+      "source": "/opml.xml",
+      "destination": "/api/opml.xml"
     },
     {
-      "source": "/((?!api|feeds|feed|openapi\\.yaml|rss\\.xsl|shared-ui\\.css|feed\\.css|feed\\.svg|favicon\\.ico).*)",
+      "source": "/((?!api/|feed|feeds/|rss/|json/|opml.xml|openapi.yaml|rss.xsl|feed.css|shared-ui.css|feed.svg|favicon.ico).*)",
       "destination": "/index.html"
     }
   ]
