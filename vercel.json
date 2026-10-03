@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/api/$1"
+    },
+    {
+      "source": "/rss/(.*)",
+      "destination": "/api/rss/$1"
+    },
+    {
+      "source": "/json/(.*)",
+      "destination": "/api/json/$1"
+    },
+    {
+      "source": "/opml.xml",
+      "destination": "/api/opml.xml"
+    },
+    {
+      "source": "/((?!api/|rss/|json/|opml.xml|openapi.yaml|rss.xsl|feed.css|shared-ui.css|feed.svg|favicon.ico).*)",
+      "destination": "/index.html"
+    }
+  ]
+}

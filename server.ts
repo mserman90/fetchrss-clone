@@ -857,36 +857,48 @@ app.get('/:catalogName', async (req: Request, res: Response, next) => {
 // ----------------------------------------------------
 // Frontend Mounting (Vite in Dev / Static in Prod)
 // ----------------------------------------------------
-
-async function startServer() {
-  const PORT = 3000;
-
-  if (process.env.NODE_ENV !== 'production') {
-    const { createServer: createViteServer } = await import('vite');
-    const vite = await createViteServer({
-      server: {
-        middlewareMode: true,
-        host: '0.0.0.0',
-        port: 3000,
-      },
-      appType: 'spa',
-    });
-    app.use(vite.middlewares);
-  } else {
-    const distPath = path.resolve(__dirname, 'dist');
-    if (fs.existsSync(distPath)) {
-      app.use(express.static(distPath));
-      app.get('*', (req: Request, res: Response) => {
-        res.sendFile(path.resolve(distPath, 'index.html'));
-      });
+const distPath = path.resolve(__dirname, 'dist');
+if (fs.existsSync(distPath)) {
+  app.use(express.static(distPath));
+  app.get('*', (req: Request, res: Response, next) => {
+    if (req.path.startsWith('/api') || req.path.startsWith('/rss') || req.path.startsWith('/json') || req.path.startsWith('/feed')) {
+      return next();
     }
-  }
-
-  app.listen(PORT, '0.0.0.0', () => {
-    console.log(`html2rss-web server running at http://0.0.0.0:${PORT}`);
+    res.sendFile(path.resolve(distPath, 'index.html'));
   });
 }
 
-startServer().catch((err) => {
-  console.error('Failed to start server:', err);
-});
+export { app };
+export default app;
+
+if (!process.env.VERCEL) {
+  async function startServer() {
+    const PORT = Number(process.env.PORT) || 3000;
+
+    if (process.env.NODE_ENV !== 'production' && !fs.existsSync(distPath)) {
+      try {
+        const { createServer: createViteServer } = await import('vite');
+        const vite = await createViteServer({
+          server: {
+            middlewareMode: true,
+            host: '0.0.0.0',
+            port: PORT,
+          },
+          appType: 'spa',
+        });
+        app.use(vite.middlewares);
+      } catch (e) {
+        console.warn('Vite dev middleware omitted:', e);
+      }
+    }
+
+    app.listen(PORT, '0.0.0.0', () => {
+      console.log(`html2rss-web server running at http://localhost:${PORT}`);
+    });
+  }
+
+  startServer().catch((err) => {
+    console.error('Failed to start server:', err);
+  });
+}
+
